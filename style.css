@@ -1,0 +1,34 @@
+.home-heading {
+  background-color: #f5cac3;
+  font-size: 60px;
+  color: #84a59d;
+}
+.home {
+  background-color: lightgray;
+}
+.para1 {
+  color: #6d6875;
+  font-size: 32px;
+}
+ul {
+  color: darkgray;
+  font-size: 28px;
+  text-decoration: none;
+}
+li > a {
+  color: mediumseagreen;
+  text-decoration: underline;
+}
+h2 {
+  font-size: 45px;
+  background-color: white;
+  color: dodgerblue;
+}
+.abouttitle {
+  color: dodgerblue;
+  background-color: grey;
+}
+.contact{
+  background-color: tomato;
+  color: black;
+}
